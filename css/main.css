@@ -32,11 +32,12 @@ body, p, h1, h2, h3 {font-family: 'Inter', sans-serif;}h1 {font-weight: 900; fon
     background-image: url('path_to_your_logo.png'); /* Replace with your logo path */
     background-size: cover;
     background-position: center;
+    border-radius: 15px;
 }
 
 .title {
     font-size: 18px;
-    font-weight: bold;
+    font-weight: 500;
 }
 
 .menu {
