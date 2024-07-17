@@ -10,7 +10,6 @@ body, p, h1, h2, h3 {font-family: 'Inter', sans-serif; color:#ffffff}h1 {font-we
 /* ^ Fonts ^ */
 body {
     background-color: hex(#000000);
-    background-image: url('https://emergency-frontline.github.io/imgs/backgrounds/dark.svg');
     background-size: cover; /* Ensures the image covers the entire background */
     background-position: center; /* Centers the image horizontally and vertically */
     background-repeat: no-repeat; /* Prevents the image from repeating */
