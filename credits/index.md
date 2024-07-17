@@ -7,7 +7,6 @@
 ---------------------------------------------------------------
 #### "Security Camera" (https://skfb.ly/6pQyP) by Danylo Tyupa is licensed under Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/).
 # Development #
----------------------------------------------------------------
 ## Website
 ---------------------------------------------------------------
 #### [AveryDoesMagic](https://github.com/AveryDoesMagic): Basically everything
@@ -16,4 +15,4 @@
 ---------------------------------------------------------------
 #### Everyone in ["Items"](https://emergency-frontline.github.io/credits/#items): Items
 ---------------------------------------------------------------
-#### [cutetimmy2011](https://emergency-frontline.github.io/credits/moderators): Also basically everything excluding items, of course.
+#### [cutetimmy2011](https://emergency-frontline.github.io/credits/moderators): Also basically everything (excluding items, of course).
