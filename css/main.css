@@ -28,7 +28,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgba(255, 255, 255, 0.8); /* Adjust the opacity for the blur effect */
+    background-color: rgba(255, 255, 255, 0.65); /* Adjust the opacity for the blur effect */
     backdrop-filter: blur(10px); /* Adds the blur effect */
     z-index: 1000; /* Ensure it's above other content */
     padding: 0 20px;
@@ -36,8 +36,8 @@ footer {
 }
 
 .logo {
-    width: 50px; /* Adjust as needed */
-    height: 50px; /* Adjust as needed */
+    width: 60px; /* Adjust as needed */
+    height: 60px; /* Adjust as needed */
     background-image: url('https://emergency-frontline.github.io/imgs/tom/happy.svg'); /* Replace with your logo path */
     background-size: cover;
     background-position: center;
