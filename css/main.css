@@ -34,7 +34,7 @@ body {
 .logo {
     width: 50px; /* Adjust as needed */
     height: 50px; /* Adjust as needed */
-    background-image: url('../imgs/tom/happy.svg'); /* Replace with your logo path */
+    background-image: url('https://emergency-frontline.github.io/imgs/tom/happy.svg'); /* Replace with your logo path */
     background-size: cover;
     background-position: center;
     border-radius: 15px;
