@@ -63,9 +63,16 @@ footer {
     color: #555;
 }
 
-.home-page-title {
-  background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/24163925-83fc-4db9-9ac2-2cc6437536d9/de0g9e7-2a33d672-ccd5-46fd-8648-1cb1ab9397f6.png/v1/fill/w_1192,h_670,q_70,strp/emergency_response__liberty_county_by_nandamc_de0g9e7-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjQxNjM5MjUtODNmYy00ZGI5LTlhYzItMmNjNjQzNzUzNmQ5XC9kZTBnOWU3LTJhMzNkNjcyLWNjZDUtNDZmZC04NjQ4LTFjYjFhYjkzOTdmNi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Dg89ZKdqTpIhf7ADUlv28unhkYAD4KHi08EB3JANyeo');
-  background-size: cover;
-    background-position: center; 
-    background-repeat: no-repeat;
+.page-title {
+    radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(173,216,230,1) 100%);
+    animation: rotateColors 4s linear infinite; /* Adjust animation duration and timing function */
+}
+
+@keyframes rotateColors {
+    0% {
+        background-position: 0 0; /* Initial position of the gradient */
+    }
+  100% {
+        background-position: 200% 0; /* End position of the gradient (adjust based on your design) */
+    }
 }
