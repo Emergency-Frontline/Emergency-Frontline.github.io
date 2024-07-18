@@ -65,4 +65,7 @@ footer {
 
 .home-page-title {
   background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/24163925-83fc-4db9-9ac2-2cc6437536d9/de0g9e7-2a33d672-ccd5-46fd-8648-1cb1ab9397f6.png/v1/fill/w_1192,h_670,q_70,strp/emergency_response__liberty_county_by_nandamc_de0g9e7-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjQxNjM5MjUtODNmYy00ZGI5LTlhYzItMmNjNjQzNzUzNmQ5XC9kZTBnOWU3LTJhMzNkNjcyLWNjZDUtNDZmZC04NjQ4LTFjYjFhYjkzOTdmNi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Dg89ZKdqTpIhf7ADUlv28unhkYAD4KHi08EB3JANyeo')
+  background-size: cover; /* Ensures the image covers the entire background */
+    background-position: center; /* Centers the image horizontally and vertically */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
 }
