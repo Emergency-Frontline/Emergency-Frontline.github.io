@@ -10,9 +10,10 @@
 ## Website
 ---------------------------------------------------------------
 #### [AveryDoesMagic](https://github.com/AveryDoesMagic): Basically everything
+#### [Home Page Title Background](https://www.deviantart.com/nandamc/art/Emergency-Response-Liberty-County-847285135): NandaMC on DeviantArt
 ---------------------------------------------------------------
 ## Game
 ---------------------------------------------------------------
-#### Everyone in ["Items"](https://emergency-frontline.github.io/credits/#items): Items
+#### Everyone in ["Items"](#items): Items
 ---------------------------------------------------------------
-#### [cutetimmy2011](https://emergency-frontline.github.io/credits/moderators): Also basically everything (excluding items, of course).
+#### [cutetimmy2011](./moderators#cutetimmy2011): Also basically everything (excluding items, of course).
